@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srushtiwarad.github.io/Portfolio/sitemap.xml
